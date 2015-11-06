@@ -3,6 +3,6 @@ pygments: true
 markdown: kramdown
 url: http://ben--wood.github.io
 title: Ben Wood
-tagline: A log of everyday life
+tagline: A log
 description: My awesome new site
 paginate: 5
